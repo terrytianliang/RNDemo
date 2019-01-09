@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-svg] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7ce2ec32446576f6b79e27d4bcdd3ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/edcbbf18e22f69e93bd8dbefb032e340/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/48051f600ecc5334c51002ac6af232cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5d285a67071789e7b994c3c5f1aed552/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2317af21418a2f3fea481ec880470daf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d648dce5dbd0e666fa345fd4c653f57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/34c78fd939f39d58feeab2ad69ef6da0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9d9bebfa0a46ea80f3cd7ef87243d7e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ca5e22ec127b6ae081e3b93512a9747e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0fabe6cda5cb3683c4d82842a8e0718f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa1e4288eaf680d54b8215b42d672a17/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9c1c280a9c2171959f77c529788592/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c1af4675df6c98bfa3a63351c2f907bb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/silen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26d2eaf493df34ea5a1e6724323aec6e/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b76429d4488a58b4b6508e3bd1cc1de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/01f5c721982115ca4617e7ad1a2e8051/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/89f8460747b468b1e390b225fb3b7bcb/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb8e91899e104e68081cd591bbdb0c4c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e30e7acd94eef7776fbb9efe6820f9b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c1af4675df6c98bfa3a63351c2f907bb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c1af4675df6c98bfa3a63351c2f907bb/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/silen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26d2eaf493df34ea5a1e6724323aec6e/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/silen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26d2eaf493df34ea5a1e6724323aec6e/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.cbmmsrn.MainActivity
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/silen/Desktop/demo/packages/cbmms-rn/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/silen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3833d2deb04d971d3395f006bcba7ecc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7ce2ec32446576f6b79e27d4bcdd3ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7ce2ec32446576f6b79e27d4bcdd3ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/edcbbf18e22f69e93bd8dbefb032e340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/edcbbf18e22f69e93bd8dbefb032e340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/48051f600ecc5334c51002ac6af232cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/48051f600ecc5334c51002ac6af232cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5d285a67071789e7b994c3c5f1aed552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5d285a67071789e7b994c3c5f1aed552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2317af21418a2f3fea481ec880470daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2317af21418a2f3fea481ec880470daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d648dce5dbd0e666fa345fd4c653f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d648dce5dbd0e666fa345fd4c653f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/34c78fd939f39d58feeab2ad69ef6da0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/34c78fd939f39d58feeab2ad69ef6da0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9d9bebfa0a46ea80f3cd7ef87243d7e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9d9bebfa0a46ea80f3cd7ef87243d7e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ca5e22ec127b6ae081e3b93512a9747e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ca5e22ec127b6ae081e3b93512a9747e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0fabe6cda5cb3683c4d82842a8e0718f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0fabe6cda5cb3683c4d82842a8e0718f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa1e4288eaf680d54b8215b42d672a17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa1e4288eaf680d54b8215b42d672a17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9c1c280a9c2171959f77c529788592/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9c1c280a9c2171959f77c529788592/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c1af4675df6c98bfa3a63351c2f907bb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/silen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c1af4675df6c98bfa3a63351c2f907bb/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b76429d4488a58b4b6508e3bd1cc1de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b76429d4488a58b4b6508e3bd1cc1de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/01f5c721982115ca4617e7ad1a2e8051/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/01f5c721982115ca4617e7ad1a2e8051/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/89f8460747b468b1e390b225fb3b7bcb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/89f8460747b468b1e390b225fb3b7bcb/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb8e91899e104e68081cd591bbdb0c4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb8e91899e104e68081cd591bbdb0c4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e30e7acd94eef7776fbb9efe6820f9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/silen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e30e7acd94eef7776fbb9efe6820f9b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/silen/Desktop/demo/packages/cbmms-android/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,9 @@
+{
+    "name": "cbws",
+    "private": true,
+    "workspaces": [
+      "packages/*"
+    ]
+  
+  }
+  
